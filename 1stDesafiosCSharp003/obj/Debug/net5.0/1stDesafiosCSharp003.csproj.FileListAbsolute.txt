@@ -1,0 +1,16 @@
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\bin\Debug\net5.0\1stDesafiosCSharp003.exe
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\bin\Debug\net5.0\1stDesafiosCSharp003.deps.json
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\bin\Debug\net5.0\1stDesafiosCSharp003.runtimeconfig.json
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\bin\Debug\net5.0\1stDesafiosCSharp003.runtimeconfig.dev.json
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\bin\Debug\net5.0\1stDesafiosCSharp003.dll
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\bin\Debug\net5.0\ref\1stDesafiosCSharp003.dll
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\bin\Debug\net5.0\1stDesafiosCSharp003.pdb
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\obj\Debug\net5.0\1stDesafiosCSharp003.csproj.AssemblyReference.cache
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\obj\Debug\net5.0\1stDesafiosCSharp003.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\obj\Debug\net5.0\1stDesafiosCSharp003.AssemblyInfoInputs.cache
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\obj\Debug\net5.0\1stDesafiosCSharp003.AssemblyInfo.cs
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\obj\Debug\net5.0\1stDesafiosCSharp003.csproj.CoreCompileInputs.cache
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\obj\Debug\net5.0\1stDesafiosCSharp003.dll
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\obj\Debug\net5.0\ref\1stDesafiosCSharp003.dll
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\obj\Debug\net5.0\1stDesafiosCSharp003.pdb
+C:\gitworkspace\exercicios-everisnt-2-NET\1stDesafiosCSharp003\obj\Debug\net5.0\1stDesafiosCSharp003.genruntimeconfig.cache
